@@ -2,7 +2,7 @@
   "name": "Komunity",
   "version": "1.0.0",
   "description": "A bot for the KFP",
-  "main": "Bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
