@@ -4,7 +4,7 @@
   "description": "A bot for the KFP",
   "main": "Bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "author": "Natsukira",
   "license": "ISC",
