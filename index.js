@@ -248,4 +248,4 @@ client.on('guildMemberAdd', async member => {
 	member.send({embed: welcomeEmbed})
 });
 
-client.login(token);
+client.login(process.env.BOT_TOKEN);
