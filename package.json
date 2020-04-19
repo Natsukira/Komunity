@@ -1,12 +1,12 @@
 {
-  "name": "botdiscord",
+  "name": "Komunity",
   "version": "1.0.0",
-  "description": "",
+  "description": "A bot for the KFP",
   "main": "Bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "",
+  "author": "Natsukira",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.6.1",
